@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82AAFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinicius;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-vinicius-andrade-santos-408b0217b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viiruto_/)
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viiruto&show_icons=true&theme=blue_navy)
 
