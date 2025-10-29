@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-vinicius-andrade-santos-408b0217b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viiruto_/)
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viiruto&show_icons=true&theme=blue_navy)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viiruto&show_icons=true&theme=blue_navy&cache_seconds=1800)
 
 ## SKILLS
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&labelColor=000000)
